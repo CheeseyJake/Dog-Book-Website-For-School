@@ -6,3 +6,13 @@
 	background-color: rgb(220, 95, 31);
 	height: 50px;
 }
+
+#header a{
+	border: 3px solid black;
+	padding: 5px;
+}
+#links{
+	position:relative;
+	top:5px;
+	left:15px;
+}
